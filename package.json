@@ -25,7 +25,7 @@
   },
   "author": "Travis Ralston",
   "dependencies": {
-    "@angular-devkit/build-angular": "^15.0.0",
+    "@angular-devkit/build-angular": "^13.0.0",
     "@angular/animations": "^12.2.2",
     "@angular/common": "^12.2.2",
     "@angular/compiler": "^12.2.2",
@@ -74,7 +74,7 @@
     "sharp": "^0.29.0",
     "split-host": "^0.1.1",
     "spotify-uri": "^2.2.0",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "telegraf": "^4.4.1",
     "typescript-rest": "^2.2.6",
     "umzug": "^3.0.0-beta.16",
